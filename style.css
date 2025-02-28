@@ -6,7 +6,7 @@
 
 body{
     box-sizing: border-box;
-    background-image: url(./pattern.svg);
+    background-image: url(./pattern.svg);  /* no-repeat center center/cover*/
     height: 600px;
 
     display: flex;
