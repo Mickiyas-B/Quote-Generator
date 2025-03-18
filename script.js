@@ -37,7 +37,7 @@ const quotes = [{
     author: `Marcus Aurelius` 
 },
 {
-    quote: `"The tranquility that comes when you stop caring what they say. Or think, or do. Only what you do "`,
+    quote: `"The tranquility that comes when you stop caring what they say. Or think, or do. Only what you do."`,
     author: `Marcus Aurelius` 
 },
 {
